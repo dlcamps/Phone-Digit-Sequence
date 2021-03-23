@@ -4,7 +4,7 @@
 ## Problem
 Given a sequence of phone digits, return all possible combinations of letters associated with those digits.
 
-* **Note:** Each combination length is limited to the total number of valid (#2-#9) digits entered. \
+* **Note:** Each combination length is limited to the total number of valid (#2-#9) digits entered.
   * Eg. Input of 12301 produces combinations of length 2
 
 ## Eg. 1 
